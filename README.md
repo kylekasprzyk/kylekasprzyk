@@ -30,7 +30,7 @@
 
 ![Scrimba Badge](https://img.shields.io/badge/Scrimba-2B283A?logo=scrimba&logoColor=fff&style=plastic)
   
-<h2>Future Plans</h2>
+<h2>Future Goals</h2>
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)
 
