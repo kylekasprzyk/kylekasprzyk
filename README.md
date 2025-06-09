@@ -1,37 +1,63 @@
-<h1>Hi 👋, I'm Kyle</h1>
-<h2>Enthusiastically learning frontend development</h2>
-<h2>From the United States 🇺🇸</h2>
+# 👋 Hi, I’m Kyle Kasprzyk
 
-<h2>Frontend</h2>
+Founder, builder, and former everything-at-once operator. I scaled a B2B apparel company from paper trails to acquisition, stayed through the handoff, and then jumped back into the deep end. Now I'm building tools to transform how we work, starting with TaskPilot.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+---
 
-<h2>Design</h2>
-  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+##  What I’m Working On
 
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=white)
-  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
+### 🚀 [TaskPilot](https://www.trytaskpilot.com) — The Execution Layer for Modern Work
 
-<h2>Automation</h2>
+Ditch the freelancers. Automate your operations. Scale without the back-and-forth.
+→ Designed for founders, small teams, and operators who want leverage without overhead.
 
-![Zapier Badge](https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=fff&style=plastic)
+### 🎨 [Pixel 81](https://www.pixel81.com) — Design Without Limits
 
-![IFTTT Badge](https://img.shields.io/badge/IFTTT-000?logo=ifttt&logoColor=fff&style=plastic)
+Framer-based websites and design subscriptions for fast-moving brands.
+→ Ongoing design + development
 
-<h2>Learning At</h2>
-  
-![Frontend Mentor Badge](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=fff&style=plastic)
+---
 
-![Scrimba Badge](https://img.shields.io/badge/Scrimba-2B283A?logo=scrimba&logoColor=fff&style=plastic)
-  
-<h2>Future Goals</h2>
+## 🛠️ Tech Stack
 
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)
+### 🧰 Core Tools
 
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic)
+**Frontend & UI**
+`Next.js 15` · `React 19` · `TypeScript` · `Tailwind CSS`
+`shadcn/ui` · `Framer Motion` · `Radix UI` 
+
+**AI & LLM**
+`Vercel AI SDK` · `xAI/Grok` · `OpenAI` · `Anthropic` · `Google Gemini`
+
+**Databases & ORM**
+`PostgreSQL (Neon)` · `Drizzle ORM` · `Redis`
+
+**Authentication & Security**
+`NextAuth.js` · `bcrypt-ts` · `JWT`
+
+**Cloud & Infra**
+`Vercel` · `Vercel Functions` · `Vercel Blob` · `Vercel Analytics` · `Vercel Speed Insights`
+
+**Dev & Testing**
+`pnpm` · `Biome` · `Turbopack` · `tsx` · `Playwright`
+
+---
+
+### ⚙️ Build, Monitoring, and Version Control
+
+**Build & Config**
+`Drizzle Kit` · `PostCSS` · `ESLint` · `dotenv`
+
+**Monitoring**
+`OpenTelemetry` · `Vercel OpenTelemetry`
+
+**Version Control**
+`Git` · `GitHub` (of course)
+
+---
+
+## 🔗 Let’s Connect
+
+- [kylekasprzyk.com](https://www.kylekasprzyk.com)
+- [trytaskpilot.com](https://www.trytaskpilot.com)
+- [pixel81.com](https://www.pixel81.com)
