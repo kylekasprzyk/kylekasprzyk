@@ -1,15 +1,10 @@
 # 👋 Hi, I’m Kyle Kasprzyk
 
-Founder, builder, and former everything-at-once operator. I scaled a B2B apparel company from paper trails to acquisition, stayed through the handoff, and then jumped back into the deep end. Now I'm building tools to transform how we work, starting with TaskPilot.
+Founder, builder, and former everything-at-once operator. I scaled a B2B apparel company from paper trails to acquisition, stayed through the handoff, and then jumped back into the deep end. Now I'm building.
 
 ---
 
 ##  What I’m Working On
-
-### 🚀 [TaskPilot](https://www.trytaskpilot.com) — The Execution Layer for Modern Work
-
-Ditch the freelancers. Automate your operations. Scale without the back-and-forth.
-→ Designed for founders, small teams, and operators who want leverage without overhead.
 
 ### 🎨 [Pixel 81](https://www.pixel81.com) — Design Without Limits
 
@@ -59,5 +54,4 @@ Framer-based websites and design subscriptions for fast-moving brands.
 ## 🔗 Let’s Connect
 
 - [kylekasprzyk.com](https://www.kylekasprzyk.com)
-- [trytaskpilot.com](https://www.trytaskpilot.com)
 - [pixel81.com](https://www.pixel81.com)
